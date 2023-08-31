@@ -44,6 +44,18 @@
 > if statment will execute the code in it's block if the conditon evaluates to a true value.
 > ![](Images/2.LOOP/if.png)
 >
-> if statements can be couples with two additionals statements called "else if" and "else"
+> if statements can be coupled with two additionals statements called "else if" and "else"
 > To test more than one conditions, we can use else if statments and else statments.
-> 
+>
+### Section 3: Operators
+>
+> There are following Types of opeartors in C++:
+> 1. Arithmetic Opertors: +, -, *, /. (note: '/' when used with integer will not keep any decimal part eg/ 2/3: will evauluate to 0)
+> 2. Relational Opertors: >, <, >=, <=.
+> 3. Bitwise operators: Perform Bitwise operations such as << (left shift), >> (right shift), | (bitwise or), & (bitwise and), ^ (XOR opertor) ~(not operator)
+> 4. Logical Operator: logical AND (&&), logical NOT(!), logical OR (||)
+> 5. Increment And Decrement Operators: There are two types of those, prefix increment/decrement and postfix increment/decrement, prefix increment (++x), will increase the value of x and the expression evaluates to new value of x whereas postfix(x++), will make a copy of x, increment x and then return the copy (the old x).
+>
+> ![](Images/3.Operators/operator.png)
+>
+  
