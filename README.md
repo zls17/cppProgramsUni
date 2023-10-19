@@ -124,7 +124,7 @@
 > An example would be handling zero division error. although when you try to devide by zero you can get some output such as inf, but that is not defined behavior
 > It is compiler implemented, so it is a good idea to handle the cases where you divide by zero by using try catch and throw features of C++
 >
-### Section 8: Linked Lists
+### Section 9: Linked Lists
 >
 > Data structures are just a way to arrange data in a particular format or way.
 > Linked list is just another kind of way or technique to arrange your data.
