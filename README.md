@@ -132,7 +132,28 @@
 > Multiple nodes can be linked together by using this pointer
 > Insertion and deletion operation is easier and efficient in Linked list as all we need to do is create new node and change bunch of pointers.
 > Linked list also works well with fragmented data (as unlike arrays, they don't need to be stored in memory contiguously).
-> 
+>
+### Section 10: Stacks and Queues
+>
+> Stack is a Last in First Out data structure, just like a stack of papers the last paper that we put on the stack is the first paper we take out.
+> Stacks allow us to access the data elements from only one side of the list, that is the top.
+> Stacks are used to store function calls in programming, stacks can be used to model the idea of undo functionality in many tool and applications.
+> Following operations can be perfomed on a stack:
+>    * push(x)    : adds element to the top of the stack
+>    * pop(x)   : removes element from the top of the stack
+>    * peek() : returns the element at the top of the stack
+>    * is_empty() : checks if stack is empty
+>    * size() : returns the size of the stack
+>    * etc.
+>
+> Queues on the other hand are First in First out data structure, just like in grocery queues, the first person in the line is the first person to leave the line.
+> Following operations can be performed on queue:
+>    * enqueue(x)    : adds element at the back of the queueu
+>    * deque(x)   : removes first element from the queue
+>    * peek() : returns the element at the top of the queue
+>    * is_empty() : checks if queue is empty
+>    * etc.
+>
 
 
 
